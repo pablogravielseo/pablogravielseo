@@ -16,6 +16,6 @@ I'm a full stack developer from South Korea 🇰🇷 living in Sao Paulo, Brazil
 - Web Services: REST, JSON API & GraphQL
 - Web Scraping & Browser Automation: Puppeteer, Nightmare.js
 
-💼 Any freelance work? You can get in touch with me at [Upwork](https://www.upwork.com/freelancers/pablogravielseo).
+💼 Any freelance work? I'm at [Upwork](https://www.upwork.com/freelancers/pablogravielseo).
 
 📬 You can get in touch with me by email at pablogravielseo@gmail.com, and [Linkedin](https://www.linkedin.com/in/pablogravielseo).
