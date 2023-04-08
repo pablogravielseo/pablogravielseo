@@ -1,10 +1,13 @@
 <h1>Hi 👋, I'm Pablo Graviel Seo</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm a full stack developer with 5+ years of experience in software development, specializing in web applications. With a background in both front-end and back-end technologies, I enjoy turning ideas into engaging, user-friendly digital solutions that drive business growth.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablogravielseo&show_icons=true&locale=en&layout=compact" alt="pablogravielseo" /></p>
+🔧 Front-end Skills: HTML5, CSS3/SCSS, JavaScript/ES2022, React.js, and Ember.js
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablogravielseo&show_icons=true&locale=en" alt="pablogravielseo" /></p>
+🔧 Back-end: Node.js, Next.js, Ruby on Rails
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablogravielseo&" alt="pablogravielseo" /></p>
+💡 Core Competencies:
+- Full-cycle web app development: from concept to deployment
+- Problem-solving and prioritization skills
+- Agile and Scrum methodologies
+- As a lifelong learner and entrepreneur, I'm always exploring new technologies to stay ahead of the curve. Let's collaborate on your next project and bring your digital vision to life! 🌟
