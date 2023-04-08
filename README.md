@@ -6,7 +6,7 @@ I'm a full stack developer from South Korea 🇰🇷 living in Sao Paulo, Brazil
 
 💎 Back-end Skills: Node.js, Next.js, Ruby on Rails
 
-⚙️ My areas of expertise include:
+💪 My areas of expertise include:
 - Web Application Architecture, Design, Development, Testing & Maintenance
 - SaaS & Web-Based Solutions
 - Critical Thinking & Strong Problem-Solving Skills
